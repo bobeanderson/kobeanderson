@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(217, 205, 205);
+    background-size: cover;
+    background-position: center;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white; /* Change link color */
+    border: 1px solid white; /* Add border */
+    padding: 5px 10px; /* Add padding */
+    border-radius: 5px; /* Add border radius */
+}
+/* Font color */
+.font-color {
+    color: navy; /* Change font color */
+}
+
+/* Font family */
+.font-family {
+    font-family: Arial, sans-serif; /* Specify font family */
+    left: 50px;
+    font-size: large;
+}
+
+/* Positioning and styling for divs */
+.positioned-div {
+    position: relative; /* Set position relative */
+    background-color: lightblue; /* Set background color */
+    padding: 40px; /* Add padding */
+    margin-top: 40px; /* Add margin */
+    border-radius: 40px; /* Add border radius */
+}
